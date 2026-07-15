@@ -1,0 +1,3 @@
+/* 引入 antdv-next Design Token */
+@import "tailwindcss";
+@import "@antdv-next/tailwind/theme.css";
